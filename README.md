@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with expertise in modern web<br>application development using Vue.js, React.js, Node.js, and<br>MongoDB. Proficient in designing scalable front-end and<br>back-end solutions, with additional experience in dApp<br>development and Web3 wallet integrations. Focused on<br>delivering high-quality code, collaborating across teams, and<br>continuously adopting new technologies to drive business<br>growth and enhance user experience.
+Full Stack Developer with expertise in modern web application development using Vue.js, React.js, Node.js, and MongoDB. Proficient in designing scalable front-end and back-end solutions, with additional experience in dApp development and Web3 wallet integrations. Focused on delivering high-quality code, collaborating across teams, and continuously adopting new technologies to drive business growth and enhance user experience.
 
 
 ## 🌐 Socials:
