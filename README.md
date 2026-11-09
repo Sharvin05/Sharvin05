@@ -1,6 +1,6 @@
 # Hi, I'm Andrews Sharvin 👋
 
-**Full Stack Software Engineer** · Dubai, UAE
+**Full Stack Software Engineer**
 
 ## 💫 About Me
 Full Stack Developer experienced in building scalable web and mobile applications using **Next.js, React Native, Vue.js, React.js, Node.js, TypeScript, PostgreSQL, MongoDB, and Supabase**. Experienced in modern application architecture, third-party integrations, payment systems, AI-enabled features, and cloud-based development workflows. Focused on code quality, collaboration, and adopting new technologies to improve productivity and user experience.
